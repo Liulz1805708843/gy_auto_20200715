@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:27 GMT
+
+{"code":9999,"message":"手机号码格式错误；订单价格不能小于1；","data":""}

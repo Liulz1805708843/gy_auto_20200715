@@ -1,0 +1,11 @@
+-------------------request-------------
+http://192.168.1.151:8084/acc/accUnLock
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+Content-Length: 20
+Content-Type: application/x-www-form-urlencoded
+
+accountName=liuzl016

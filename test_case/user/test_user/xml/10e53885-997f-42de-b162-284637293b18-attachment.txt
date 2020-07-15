@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:29 GMT
+
+{"code":2000,"message":"查询成功","data":[{"repertoryId":1,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:20:33.000+0000","updateTime":"2020-06-20T06:20:33.000+0000","whCode":"TestWH"},{"repertoryId":2,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:24:18.000+0000","updateTime":"2020-06-20T06:24:18.000+0000","whCode":"TestWH"},{"repertoryId":3,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:24:24.000+0000","updateTime":"2020-06-20T06:24:24.000+0000","whCode":"TestWH"}]}

@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:29 GMT
+
+{"code":2000,"message":"价格更新成功,VpBSrKc2_红色_64g价格为9999分。","data":""}

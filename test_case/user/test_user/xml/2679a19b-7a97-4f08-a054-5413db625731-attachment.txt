@@ -1,0 +1,5 @@
+{'birthday': '2020-1-1', 'certno': '520622198011038389', 'city': '上海市', 'cstName': '自动生成 姓名', 'email': '自动生成 邮箱', 'province': '上海', 'sex': 1}
+姓名：曹淑
+{'birthday': '2020-1-1', 'certno': '520622198011038389', 'city': '上海市', 'cstName': '曹淑', 'email': '自动生成 邮箱', 'province': '上海', 'sex': 1}
+邮箱：gjzy3wB4JVCKM7nY@3721.net
+{'birthday': '2020-1-1', 'certno': '520622198011038389', 'city': '上海市', 'cstName': '曹淑', 'email': 'gjzy3wB4JVCKM7nY@3721.net', 'province': '上海', 'sex': 1}

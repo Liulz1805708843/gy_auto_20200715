@@ -1,0 +1,19 @@
+----请求用时: 27.963 秒数
+-------------------request-------------
+http://192.168.1.151:8084/product/addProd
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+Content-Length: 213
+Content-Type: application/json
+
+b'{"brand": "\\u8c01tm\\u4e70\\u5c0f\\u7c73", "colors": ["\\u7ea2\\u8272", "\\u84dd\\u8272"], "price": 8888, "productCode": "VpBSrKc2", "productName": "\\u7ea2\\u7c73note900", "sizes": ["64g", "128g"], "type": "\\u6570\\u7801"}'
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:29 GMT
+
+{"code":2000,"message":"创建产品成功,产品ID为:9823。共生成商品：4件。","data":[{"skuId":null,"productCode":"VpBSrKc2","skuCode":"VpBSrKc2_红色_64g","skuName":"红米note900红色64g","skuPrice":8888,"color":"红色","size":"64g","status":null,"createTime":null,"updateTime":null},{"skuId":null,"productCode":"VpBSrKc2","skuCode":"VpBSrKc2_红色_128g","skuName":"红米note900红色128g","skuPrice":8888,"color":"红色","size":"128g","status":null,"createTime":null,"updateTime":null},{"skuId":null,"productCode":"VpBSrKc2","skuCode":"VpBSrKc2_蓝色_64g","skuName":"红米note900蓝色64g","skuPrice":8888,"color":"蓝色","size":"64g","status":null,"createTime":null,"updateTime":null},{"skuId":null,"productCode":"VpBSrKc2","skuCode":"VpBSrKc2_蓝色_128g","skuName":"红米note900蓝色128g","skuPrice":8888,"color":"蓝色","size":"128g","status":null,"createTime":null,"updateTime":null}]}

@@ -1,0 +1,10 @@
+-------------------request-------------
+http://192.168.1.151:8084/acc/charge
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 49
+Content-Type: application/json
+
+b'{"accountName": "string123", "changeMoney": 9000}'

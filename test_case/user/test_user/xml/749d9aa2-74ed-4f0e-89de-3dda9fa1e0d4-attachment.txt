@@ -1,0 +1,17 @@
+----请求用时: 39.288 秒数
+-------------------request-------------
+http://192.168.1.151:8084/acc/getAccInfo?accountName=liuzl016
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+
+None
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:30 GMT
+
+{"code":2000,"message":"查询成功","data":{"accoutId":27905,"accountName":"liuzl016","cstId":28021,"balance":0,"status":0,"createTime":"2020-07-15T02:29:30.000+0000","updateTime":"2020-07-15T02:29:30.000+0000","operateUserId":null}}

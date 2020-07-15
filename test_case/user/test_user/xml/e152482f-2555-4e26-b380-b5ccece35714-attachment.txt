@@ -1,0 +1,18 @@
+----请求用时: 80.378 秒数
+-------------------request-------------
+http://192.168.1.151:8084/acc/recharge
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 45
+Content-Type: application/json
+
+b'{"accountName": "hqb123", "changeMoney": 1.0}'
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:29 GMT
+
+{"code":2000,"message":"充值成功;账户余额581644927分","data":""}

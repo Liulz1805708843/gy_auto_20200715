@@ -1,0 +1,17 @@
+[32mINFO    [0m tools.report.log_tool:log_tool.py:34 ----请求用时: 24.49 秒数
+[32mINFO    [0m tools.report.log_tool:log_tool.py:34 -------------------request-------------
+                                              http://192.168.1.151:8084/product/getSkuRepertorys/1/3
+                                              User-Agent: python-requests/2.22.0
+                                              Accept-Encoding: gzip, deflate
+                                              Accept: */*
+                                              Connection: keep-alive
+                                              token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+                                              
+                                              None
+[32mINFO    [0m tools.report.log_tool:log_tool.py:34 ---------------response----------------
+                                              200
+                                              Content-Type: application/json;charset=UTF-8
+                                              Transfer-Encoding: chunked
+                                              Date: Wed, 15 Jul 2020 02:29:29 GMT
+                                              
+                                              {"code":2000,"message":"查询成功","data":[{"repertoryId":1,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:20:33.000+0000","updateTime":"2020-06-20T06:20:33.000+0000","whCode":"TestWH"},{"repertoryId":2,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:24:18.000+0000","updateTime":"2020-06-20T06:24:18.000+0000","whCode":"TestWH"},{"repertoryId":3,"skuCode":"ytm0le5cfj_玫瑰金_128","qty":20000,"remark":null,"status":0,"createTime":"2020-06-20T06:24:24.000+0000","updateTime":"2020-06-20T06:24:24.000+0000","whCode":"TestWH"}]}

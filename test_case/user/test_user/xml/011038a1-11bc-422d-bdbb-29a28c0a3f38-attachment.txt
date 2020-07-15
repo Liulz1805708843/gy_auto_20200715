@@ -1,0 +1,19 @@
+----请求用时: 10.78 秒数
+-------------------request-------------
+http://192.168.1.151:8084/cst/realname2
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+Content-Length: 223
+Content-Type: application/json
+
+b'{"cstId": 28021, "customerInfo": {"birthday": "2020-1-1", "certno": "520622198011038389", "city": "\\u4e0a\\u6d77\\u5e02", "cstName": "\\u66f9\\u6dd1", "email": "gjzy3wB4JVCKM7nY@3721.net", "province": "\\u4e0a\\u6d77", "sex": 1}}'
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:30 GMT
+
+{"code":2000,"message":"认证成功","data":""}

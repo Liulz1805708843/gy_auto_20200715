@@ -1,0 +1,11 @@
+-------------------request-------------
+http://192.168.1.151:8084/product/addProd
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+Content-Length: 213
+Content-Type: application/json
+
+b'{"brand": "\\u8c01tm\\u4e70\\u5c0f\\u7c73", "colors": ["\\u7ea2\\u8272", "\\u84dd\\u8272"], "price": 8888, "productCode": "VpBSrKc2", "productName": "\\u7ea2\\u7c73note900", "sizes": ["64g", "128g"], "type": "\\u6570\\u7801"}'

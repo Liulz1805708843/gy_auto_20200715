@@ -1,0 +1,3 @@
+{'token': 'eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==', 'accountName': 'hqb123', 'charg_money': 10000001.0, 'productCode': 'VpBSrKc2', 'skuCode': 'VpBSrKc2_红色_64g', 'username': 'liuzl016', 'phone': '自动生成 手机号'}
+电话:17672748920
+{'token': 'eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==', 'accountName': 'hqb123', 'charg_money': 10000001.0, 'productCode': 'VpBSrKc2', 'skuCode': 'VpBSrKc2_红色_64g', 'username': 'liuzl016', 'phone': '17672748920'}

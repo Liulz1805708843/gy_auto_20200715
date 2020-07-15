@@ -1,0 +1,18 @@
+----请求用时: 3.751 秒数
+-------------------request-------------
+http://192.168.1.151:8084/acc/recharge
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 52
+Content-Type: application/json
+
+b'{"accountName": "hqb123", "changeMoney": 10000001.0}'
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:29 GMT
+
+{"code":9999,"message":"不能大于10000000分,10万；","data":""}

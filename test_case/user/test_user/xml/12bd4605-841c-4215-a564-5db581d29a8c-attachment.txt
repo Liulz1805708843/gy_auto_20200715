@@ -1,0 +1,23 @@
+----请求用时: 4.326 秒数
+-------------------request-------------
+http://192.168.1.151:8084/order/addOrder
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+token: eyJ0aW1lT3V0IjoxNTk0NzgxOTY3OTQ5LCJ1c2VySWQiOjI1NTg0LCJ1c2VyTmFtZSI6ImJ3ZXQyOTIifQ==
+Host: qa.yansl.com:8084
+Origin: http://qa.yansl.com:8084
+Content-Type: application/json
+Referer: http://qa.yansl.com:8084/swagger-ui.html
+Accept-Language: zh-CN,zh;q=0.9
+Content-Length: 191
+
+b'{"ordeerPrice": 0, "orderLineList": [{"qty": 0, "skuCode": "xuepldJ8"}], "receiver": "string", "receiverPhone": "string", "receivingAddress": "string", "sign": "string", "userName": "string"}'
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:27 GMT
+
+{"code":9999,"message":"手机号码格式错误；订单价格不能小于1；","data":""}

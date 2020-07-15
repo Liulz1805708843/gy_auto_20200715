@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:30 GMT
+
+{"code":2000,"message":"解冻成功","data":""}

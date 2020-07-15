@@ -1,0 +1,3 @@
+预期结果：2000
+------------------------------------------------------
+实际结果：{"code":2000,"message":"查询成功","data":[{"accoutId":1,"accountName":"string123","cstId":1,"balance":4105808,"status":0,"createTime":"2019-10-28T11:05:14.000+0000","updateTime":"2019-11-03T06:31:36.000+0000","operateUserId":1},{"accoutId":2,"accountName":"duanyun46","cstId":2,"balance":4000,"status":0,"createTime":"2019-10-28T12:05:26.000+0000","updateTime":"2019-11-03T06:31:36.000+0000","operateUserId":1},{"accoutId":3,"accountName":"yangys36","cstId":3,"balance":10000,"status":1,"createTime":"2019-10-28T12:05:36.000+0000","updateTime":"2019-11-03T07:31:05.000+0000","operateUserId":1}]}

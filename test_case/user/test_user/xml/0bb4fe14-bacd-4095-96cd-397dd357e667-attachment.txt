@@ -1,0 +1,7 @@
+---------------response----------------
+200
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 15 Jul 2020 02:29:30 GMT
+
+{"code":2000,"message":"注册成功；用户ID:27927","data":{"userName":"liuzl016","accoutId":27905,"cstId":28021,"userId":27927}}
